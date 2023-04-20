@@ -1,0 +1,21 @@
+# ignore irrelevant folders
+tmp/
+data/
+splitted_data/
+outputs/
+.vscode/
+.ipynb_checkpoints
+wandb/
+__pycache__/
+
+# ignore files
+*.pth
+*.tar.gz
+*.zip
+
+*.ipynb_checkpoints
+*.ipynb
+
+# for mac
+.DS_Store 
+
